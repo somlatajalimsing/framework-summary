@@ -41,4 +41,4 @@ In mijn werksituatie voldoen wij aan veel verschillende ISO's zoals ISO 9001, 27
 ### 3.2 Infrastructuur
 Een deel van onze infrastructuur bestaat ook uit Azure welke wij ook aan klanten leveren als dienst, ook hebben wij een eigen cloud en zijn wij ook een Internet Service Provider (ISP). Wat wij afnemen is een Managed Azure Tenant waar diensten in geleverd kunnen worden. Op beveiliging niveau komen er ook heel veel dingen overeen in mijn werksituatie en bij de HU.
 ### 3.3 Processen (verbetering)
-Wij maken gebruik van de Windows Security baselines maar nog geen regels of informatie van CSIS opgevolgd. Ook maken wij geen gebruik van het Cloud Adoption Framework. Hoewel onze huidige processen ook in orde zijn denk ik   dat we hier ook waardevolle inzichten uit kunnen halen en dat onze processen hierdoor verbeterd kunnen worden
+Wij maken gebruik van de Windows Security baselines maar nog geen regels of informatie van CSIS opgevolgd. Ook maken wij geen gebruik van het Cloud Adoption Framework. Hoewel onze huidige processen ook in orde zijn denk ik   dat we hier ook waardevolle inzichten uit kunnen halen en dat onze processen hierdoor verbeterd kunnen worden.
