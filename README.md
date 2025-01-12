@@ -1,4 +1,4 @@
-# Goverance Framework
+# Goverance Framework HU
 ## 1 Samenvatting van het verhaal van Jannick - *Essentie*
 Deze samenvatting behandeld de presentatie van Jannick, een Product Owner met ervaring in IT (Azure en deels AWS) en Product Management. 
 ### 1.1 Wat is cloud governance? 
