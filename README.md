@@ -4,7 +4,7 @@ Deze samenvatting behandeld de presentatie van Jannick, een Product Owner met er
 ### 1.1 Wat is cloud governance? 
 Cloud Governance bestaat uit beleidsregeles die ervoor zorgen dat de risico's en compliancy van je organisatie in orde zijn en dat het bedrijf voldoet aan de regels en wetgevingen die hiervoor bedoeld zijn, iets waar er binnen de HU veel aandacht aan wordt besteed. Compliance kun je technisch (met technologie) en organisatorisch afdwingen. Educatie is ook een belangrijke factor. 
 ### 1.2 Infrastructuur
-De infrastructuur van de HU bestaat uit 3 lagen welke beheerd worden door technisch applicatie en functioneel beheer. Dit is de applicatielaag , infralaag en coreplatform. Kostenworden worden gemonitord en gerapporteerd. 
+De infrastructuur van de HU bestaat uit 3 lagen welke beheerd worden door technisch applicatie en functioneel beheer. Dit is de applicatielaag , infralaag en coreplatform. Kosten worden worden gemonitord en gerapporteerd. 
 ### 1.3 Cloud Adoption Framework
 Het Cloud Adoption Framework beschrijft:
 - Hoe kan je een bepaalde strategie kan aanpakken?
