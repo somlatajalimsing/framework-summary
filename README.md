@@ -34,7 +34,7 @@ Jannick heeft benoemd dat er alleen gebruik gemaakt wordt van het Cloud platform
 3. Onderzoek naar kosteneffectiviteit en duurzaamheid;
 4. Educatie
 
-## 3 In hoeverre kan ik dit toepassen in mijn werksituatie? *waarom*
+## 3 In hoeverre kan ik dit toepassen in mijn werksituatie? - *waarom*
 
 ### 3.1 Wetten en regels
 In mijn werksituatie voldoen wij aan veel verschillende ISO's zoals ISO 9001, 27001, 20000, 14001, 22301, NEN 7510, SOC 2, ISAE 3402, DigiD TPM, CO2-Prestatieladder. Op dit gebied zitten wij als organisatie goed. Er worden ook regelmatige organisatie en klantsysteem audits uitgevoerd.
